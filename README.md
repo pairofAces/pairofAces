@@ -1,13 +1,13 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <h1 align="center">Hi 👋, I'm Karan</h1>
-<h3 align="center">A passionate backend developer from New York</h3>
+<h3 align="center">I am a passionate full stack developer based in New York</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pairofaces&label=Profile%20views&color=0e75b6&style=flat" alt="pairofaces" /> </p>
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning development of trading engines in the global markets space. 
 
-- ⚡ Fun fact **I enjoy exploring new places**
+- ⚡ Fun fact: **I possess a natural curiosity and enjoy venturing into uncharted territories, whether it be exploring new places, learning new languages for effective communication and software development, or gaining insights into successful and unsuccessful business strategies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
